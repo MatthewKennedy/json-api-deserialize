@@ -1,3 +1,7 @@
+[![CI](https://github.com/MatthewKennedy/json-api-deserialize/actions/workflows/ci.yml/badge.svg)](https://github.com/MatthewKennedy/json-api-deserialize/actions/workflows/ci.yml)
+[![Lint Code Spelling](https://github.com/MatthewKennedy/json-api-deserialize/actions/workflows/spelling_lint.yml/badge.svg)](https://github.com/MatthewKennedy/json-api-deserialize/actions/workflows/spelling_lint.yml)
+[![Standard JS](https://github.com/MatthewKennedy/json-api-deserialize/actions/workflows/standardjs.yml/badge.svg)](https://github.com/MatthewKennedy/json-api-deserialize/actions/workflows/standardjs.yml)
+
 # {JSON:API} Deserializer
 
 Immutable {json:api} deserializer
