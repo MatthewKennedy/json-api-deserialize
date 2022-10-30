@@ -1,6 +1,6 @@
 {
   "name": "@matthewkennedy/json-api-deserializer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Immutable json:api deserializer",
   "main": "lib/index.js",
   "repository": "https://github.com/matthewkennedy/json-api-deserializer",
@@ -23,6 +23,7 @@
     ]
   },
   "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
     "eslint": "^8.26.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
